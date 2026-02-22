@@ -3,5 +3,5 @@ requests
 jsonschema
 python-dotenv
 pytest-html
-
-# issues with installing dependancies, fixed with cmd /c "(echo pytest&echo requests&echo jsonschema&echo python-dotenv&echo pytest-html)>requirements.txt" in terminal/PS
+pytest-cov
+iso8601
