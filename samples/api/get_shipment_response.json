@@ -1,0 +1,19 @@
+{
+  "shipment_id": "SHP-20250210-0042",
+  "status": "in_transit",
+  "origin": { "port": "CNSHA", "country": "CN" },
+  "destination": { "port": "GBFXT", "country": "GB" },
+  "carrier": "MAEU",
+  "container_id": "MSKU1234567",
+  "events": [
+    { "timestamp": "2025-02-08T14:30:00Z", "type": "departure", "source": "carrier_api" },
+    {
+      "timestamp": "2025-02-10T09:15:00Z",
+      "type": "location_update",
+      "source": "edge_sensor",
+      "location": { "lat": 30.5, "lon": 122.1 }
+    }
+  ],
+  "eta": "2025-03-15T08:00:00Z",
+  "last_updated": "2025-02-10T09:15:00Z"
+}

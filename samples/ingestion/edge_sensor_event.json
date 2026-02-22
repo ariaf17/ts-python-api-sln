@@ -1,0 +1,9 @@
+{
+  "source": "edge_sensor",
+  "device_id": "EDGE-4491",
+  "container_id": "MSKU1234567",
+  "timestamp": "2025-02-10T09:15:00Z",
+  "lat": 30.5,
+  "lon": 122.1,
+  "temp_c": 4.2
+}
